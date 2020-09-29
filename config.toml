@@ -46,10 +46,10 @@ paginate = 10
 
   # Word counter and read time indicator in post metadata
   showWordCounter = true
-  showReadTime = false
+  showReadTime = true
 
   # License at the end of each post
-  showLicense = true
+  showLicense = false
   showToc = true
 
   # Open Graph & Twitter Card variables
