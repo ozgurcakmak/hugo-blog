@@ -2,7 +2,7 @@
 title = "Installing VMWare & Kali on Linux (Pop_os! specifically)"
 date = "2020-12-15"
 description = "How to download, install VMWare and Kali on top of that"
-tags = [linux, kali, vmware]
+tags = ["linux", "kali", "vmware"]
 +++
 
 # Introduction
