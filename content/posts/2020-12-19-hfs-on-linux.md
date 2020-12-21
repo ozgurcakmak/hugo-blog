@@ -1,7 +1,7 @@
 +++
 title = "Mounting HFS+ (Mac) filesystem on Linux"
 date = "2020-12-19"
-description = "How to mount HFS filesystem on Linux (Pop_os)
+description = "How to mount HFS filesystem on Linux (Pop_os)"
 tags = ["Linux","Mac","Mounting"]
 +++
 
