@@ -1,7 +1,7 @@
 +++
 title = "Johnny Decimal - Update"
 date = "2020-12-21"
-description = "An update on Johnny Decimal System. How do I feel after 5d"
+description = "An update on Johnny Decimal System."
 tags = ["Productivity","JD"]
 +++
 
